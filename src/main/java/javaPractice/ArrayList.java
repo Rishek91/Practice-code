@@ -16,6 +16,7 @@ public class ArrayList {
 		emp[1]=300;
 		emp[2]=10.33;
 		emp[3]='r';
+		emp[4]='s';
 		System.out.println(Arrays.toString(emp));
 		
 
